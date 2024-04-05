@@ -1,0 +1,23 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "this is my first project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CS",
+    "001",
+    "AI",
+    "SyamChand"
+  ],
+  "author": "Syamchand chilaka",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.3",
+    "sequelize": "^6.37.2"
+  }
+}
